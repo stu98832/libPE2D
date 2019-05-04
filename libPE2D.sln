@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libPE2D", "libPE2D.csproj", "{949F4222-6D09-4368-9C6C-9ABD16E3E4D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libPE2D.test", "..\libPE2D.test\libPE2D.test.csproj", "{99B181F7-4104-479D-A1C1-B575B1A8DB88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{949F4222-6D09-4368-9C6C-9ABD16E3E4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949F4222-6D09-4368-9C6C-9ABD16E3E4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949F4222-6D09-4368-9C6C-9ABD16E3E4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949F4222-6D09-4368-9C6C-9ABD16E3E4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B181F7-4104-479D-A1C1-B575B1A8DB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B181F7-4104-479D-A1C1-B575B1A8DB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B181F7-4104-479D-A1C1-B575B1A8DB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B181F7-4104-479D-A1C1-B575B1A8DB88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ABCA74F-A3B3-4725-BFC0-775920B3922D}
+	EndGlobalSection
+EndGlobal
